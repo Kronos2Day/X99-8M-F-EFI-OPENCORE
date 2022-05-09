@@ -1,0 +1,2 @@
+# X99-8M-F-EFI-OPENCORE
+EFI Para Huananzhi X99-8M-F
